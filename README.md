@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Our project aims to forecast pickup densities for yellow taxi services in New York City. Accurate pickup density forecasting is crucial for taxi service companies to optimize their operations, enhance customer service, and increase revenue. To achieve this goal, we collect and analyze data provided by the NYC Taxi and Limousine Commission (TLC). This dataset encompasses various attributes such as pick-up and drop-off timestamps, locations, trip distances, fares, rate types, payment methods, and passenger counts. Our model leverages data from 2019-2020 for training and evaluates its performance using 2021 data.
+This project aims to forecast pickup densities for yellow taxi services in New York City. Accurate pickup density forecasting is crucial for taxi service companies to optimize their operations, enhance customer service, and increase revenue. To achieve this goal, we collect and analyze data provided by the NYC Taxi and Limousine Commission (TLC). This dataset encompasses various attributes such as pick-up and drop-off timestamps, locations, trip distances, fares, rate types, payment methods, and passenger counts. Our model leverages data from 2019-2020 for training and evaluates its performance using 2021 data.
 
 ## Dataset
 
